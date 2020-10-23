@@ -1,2 +1,2 @@
 # pure
-purelife
+purelife for git command demonstration
